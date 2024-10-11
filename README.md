@@ -4,7 +4,7 @@
 ### 👨‍💻 I aspire to be a Robotics Software Engineer
 ### 🌍  I'm based in Alexandria,Egypt
 ### ✉️  You can contact me at [mohammedalashkar17@gmail.com](mailto:mohammedalashkar17@gmail.com) 
-### 🧠  I'm learning I'm currently learning ROS and Machine Learning
+### 🧠  I'm currently learning ROS and Machine Learning
 ### 🤝  I'm open to collaborating on Arduino and ESP Projects
 
 
