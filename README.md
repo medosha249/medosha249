@@ -35,15 +35,24 @@ src="https://img.shields.io/github/followers/medosha249?logo=github&style=for-th
 
 -----------------------------------------------------------------------------------------------------------------------
 
-## Badges
 
-<b>My GitHub Stats</b>
 
-<p align="center"><a href="http://www.github.com/medosha249"><img src="https://github-readme-stats.vercel.app/api?username=medosha249&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="medosha249's GitHub stats" /></a></p>
-<br><br>
-<p align="center"><a href="http://www.github.com/medosha249"><img src="https://github-readme-streak-stats.herokuapp.com/?user=medosha249&stroke=ec4899&background=0f172a&ring=3382ed&fire=3382ed&currStreakNum=ec4899&currStreakLabel=3382ed&sideNums=ec4899&sideLabels=ec4899&dates=ec4899&hide_border=true" /></a></p>
-<br><br>
-<p align="center"><a href="http://www.github.com/medosha249"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=medosha249&bg_color=0f172a&color=ec4899&line=0891b2&point=ec4899&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a></p>
-<br><br>
-<p align="center"><a href="https://github.com/medosha249" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=medosha249&langs_count=10&title_color=3382ed&text_color=ec4899&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a></p>
+# 📊 GitHub Stats: 
+![](https://github-readme-stats.vercel.app/api?username=medosha249&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=medosha249&theme=radical&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=medosha249&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+<br><img align="right" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2ZubW0xdXk1djRvczI4ZXdhMWVxZHJ3anlvM3Bxc2k4OGp5czlyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3NyvreZAtNLrNKTrKa/giphy.webp" />
+
+![](https://github-contributor-stats.vercel.app/api?username=medosha249&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=medosha249&icon=2&color=1)](https://visitcount.itsvg.in)
+
+
 
