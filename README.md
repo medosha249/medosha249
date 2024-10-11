@@ -1,5 +1,5 @@
 # 💫 I'm Mohammed Alashkar
-👨‍💻 I aspire to be a Software Robotics Engineer<br>🦾 I’m currently learning ROS and Machine Learning<br>⚡ I'm Studying Mechatronics Engineering at Alexandria higher institute of engineering and technology<br> 
+👨‍💻 I aspire to be a Robotics Software Engineer<br>🦾 I’m currently learning ROS and Machine Learning<br>⚡ I'm Studying Mechatronics Engineering at Alexandria higher institute of engineering and technology<br> 
 
 
 ## 🌐 Socials:
